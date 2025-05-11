@@ -2,7 +2,9 @@
 
 🎓 Estudante de Sistemas de Informação na CESAR School (3º período)  
 💻 Tenho interesse por programação backend e estou procurando saber mais sobre cibersegurança
+
 📚 Estou aprendendo Programação orientada a objetos com java e Arquitetura e estrutura de dados em C/C++ 
+
 📧 Email: matheusmescorel@gmail.com
 💼 LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)
 ---
