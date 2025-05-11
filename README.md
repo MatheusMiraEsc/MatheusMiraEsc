@@ -1,11 +1,10 @@
 # Olá! Eu sou Matheus Escorel
 
-
 🎓 Estudante de Sistemas de Informação na CESAR School (3º período)  
 
 ---
 
-💻 Tenho interesse por programação backend e cibersegurança.  
+💻 Tenho interesse por programação backend e estou procurando saber mais sobre cibersegurança.
 
 📚 Atualmente, estou aprendendo Programação Orientada a Objetos com Java, além de Arquitetura e Estrutura de Dados em C/C++.  
 
