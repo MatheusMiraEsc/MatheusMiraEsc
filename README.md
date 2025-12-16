@@ -29,10 +29,10 @@
 
 ## 🚀 Projetos em Destaque
 
-- [CarBooker](https://github.com/MatheusMiraEsc/CarBooker): Plataforma para aluguel de veículos com autenticação de usuários e sistema de reservas.
+- [Wallet_db_so](https://github.com/MariaJuliaGermano/wallet_db_so): API backend para uma carteira digital. Permite operações financeiras simuladas incluindo criação de carteira, ver saldo por moeda, fazer depósitos e saques, transferências entre carteiras e conversão entre moedas utilizando cotações da coinbase.
 - [FACT School](https://github.com/bruno-omf/projeto-2-si-equipe-1): Aplicação web para avaliação de alunos por alunos, garantindo anonimato e coleta de feedback.
 - [System of a Dunk](https://github.com/MatheusMiraEsc/System-of-a-Dunk): Jogo interativo no terminal desenvolvido em C como projeto acadêmico.
-- [IngressArt (Projeto em andamento)](https://github.com/MatheusMiraEsc/projetos-3-si-equipe-3): Sistema para facilitar a compra e venda de ingressos e a avaliação de peças de teatro. Em desenvolvimento como parte do 3º período.
+- [IngressArt](https://github.com/MatheusMiraEsc/projetos-3-si-equipe-3): Sistema para facilitar a compra e venda de ingressos e a avaliação de peças de teatro.
 
 ---
 
